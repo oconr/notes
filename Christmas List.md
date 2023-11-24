@@ -1,0 +1,15 @@
+---
+share: "true"
+---
+
+[Link to Elgato Black Friday sale](https://www.elgato.com/uk/en/s/black-friday-2023)
+- [ ] Elgato FaceCam - £119.99
+- [ ] Elgato Wave:3 Complete Set - £199.99
+	- [ ] Shock mount
+	- [ ] Pop filter
+	- [ ] Mic arm
+	- [ ] Wave:3
+- [ ] 2x [Key Light Air](https://www.amazon.co.uk/Elgato-Key-Light-app-adjustable-Mac/dp/B082QHRZFW) - £160 (£79.99 each)
+	- [ ] 2x [Multi Mount L](https://www.amazon.co.uk/Elgato-Multi-Mount-Microphones-Videoconferencing-Black/dp/B07X49967V) - £60 (29.99)
+- [ ] Modern Warfare III (Xbox) - £59.49
+- [ ] [HDHomeRun](https://www.amazon.co.uk/SiliconDust-HDHomeRun-Quatro-4xDVB-T-Tuners/dp/B0BDYP7HFH?ufe=app_do%3Aamzn1.fos.23648568-4ba5-49f2-9aa6-31ae75f1e9cd) - £154.99
