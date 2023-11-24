@@ -12,8 +12,8 @@ If the item has been checked off then it has already been claimed, please pick a
 	- [x] Wave:3
 - [ ] 2x [Key Light Air](https://www.amazon.co.uk/Elgato-Key-Light-app-adjustable-Mac/dp/B082QHRZFW) - £160 (£79.99 each) (Recommended for Nan/Grandad/Claire) (Must come with the multi mount that is listed below)
 	- [ ] 2x [Multi Mount L](https://www.amazon.co.uk/Elgato-Multi-Mount-Microphones-Videoconferencing-Black/dp/B07X49967V) - £60 (29.99)
-- [ ] [Modern Warfare III (Xbox)](https://www.xbox.com/en-gb/games/store/call-of-duty-modern-warfare-iii-cross-gen-bundle/9nb54xtf084m) - £59.49 (Recommended for Ciaran)
-- [ ] [HDHomeRun](https://www.amazon.co.uk/SiliconDust-HDHomeRun-Quatro-4xDVB-T-Tuners/dp/B0BDYP7HFH?ufe=app_do%3Aamzn1.fos.23648568-4ba5-49f2-9aa6-31ae75f1e9cd) - £154.99 (Recommended for mother) (This is what will give us Freeview on Plex)
+- [ ] [Modern Warfare III (Xbox)](https://www.xbox.com/en-gb/games/store/call-of-duty-modern-warfare-iii-cross-gen-bundle/9nb54xtf084m) - £59.49
+- [ ] [HDHomeRun](https://www.amazon.co.uk/SiliconDust-HDHomeRun-Quatro-4xDVB-T-Tuners/dp/B0BDYP7HFH?ufe=app_do%3Aamzn1.fos.23648568-4ba5-49f2-9aa6-31ae75f1e9cd) - £154.99 (Recommended for mother & Ciaran combined) (This is what will give us Freeview on Plex)
 - [ ] Overwatch Coins
 	- [ ] 500 - £4.49
 	- [ ] 1,000 - £8.39
